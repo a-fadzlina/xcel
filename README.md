@@ -1,2 +1,2 @@
 # Excel
-Portfolio of all my data analytics projects conducted on excel.
+Portfolio of all my projects conducted on excel.
