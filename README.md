@@ -1,7 +1,7 @@
 # Excel
 Portfolio of all my projects conducted on excel. These are personal projects done for the purpose of upskilling. 
 
-To view the excel files, you may click and download from the list above. 
+To view the excel files, you may click and download the .xlsx file from the list above. 
 
 - Awesome Chocolate Sales:
   - Created a dashboard and quick sales report from sales data of a fictional chcolate company. 
